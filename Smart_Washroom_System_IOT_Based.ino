@@ -4,12 +4,12 @@
 #include "addons/RTDBHelper.h"
 
 // Replace Firebase credentials section
-#define API_KEY "AIzaSyAujt_zf6fCCLEPICef4_VAd7W4rSQshJE"
-#define DATABASE_URL "byte4genodemcu-default-rtdb.firebaseio.com"
+#define API_KEY "Your_FirebaseRTb_apiKey"
+#define DATABASE_URL "Your_FirebaseRTb_url"
 
 // WiFi credentials
-#define WIFI_SSID "Mr.MorningStar"
-#define WIFI_PASSWORD "Byte4ge@7874"
+#define WIFI_SSID "Your_ssid"
+#define WIFI_PASSWORD "Your_Password"
 
 // LED pin
 #define LED_PIN 2  // Built-in LED on NodeMCU (GPIO2)
